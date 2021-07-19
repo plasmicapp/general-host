@@ -14,3 +14,24 @@ a {
 * {
   box-sizing: border-box;
 }
+
+@font-face {
+  font-family: "Whitney";
+  src: local("Whitney HTF"), url("/fonts/Whitney/WhitneyHTF-Medium.otf");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Whitney";
+  src: local("Whitney HTF"), url("/fonts/Whitney/WhitneyHTF-SemiBold.otf");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Whitney";
+  src: local("Whitney HTF"), url("/fonts/Whitney/WhitneyHTF-Bold.otf");
+  font-weight: 700;
+  font-style: normal;
+}
